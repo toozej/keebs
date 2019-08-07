@@ -10,6 +10,8 @@ Keyboard keymaps and other related tools/scripts for custom keyboards.
 
 ### OSU Nyquist
 ![Image of OSU Nyquist build](https://raw.githubusercontent.com/toozej/keebs/master/nyquist/OSU.jpg)
+![OSU Nyquist main layer](https://raw.githubusercontent.com/toozej/keebs/master/nyquist/main_layer.png)
+![OSU Nyquist function layer](https://raw.githubusercontent.com/toozej/keebs/master/nyquist/function_layer.png)
 
 ## References and Tools
 - <https://github.com/jerrywardlow/keebs> for the inspiration
